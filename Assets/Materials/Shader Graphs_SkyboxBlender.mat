@@ -49,6 +49,6 @@ Material:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _BlendValue: 0.1
-    - _TimeScale: 0.1
+    - _TimeScale: 0.001
     m_Colors: []
   m_BuildTextureStacks: []
